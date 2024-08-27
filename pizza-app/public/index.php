@@ -1,6 +1,10 @@
 <?php
 
+
+// Ваш код далі
+
 use Illuminate\Http\Request;
+
 
 define('LARAVEL_START', microtime(true));
 
